@@ -5,8 +5,8 @@
 Estou cursando Análise e Desenvolvimento de Sistemas na Escola Técnica Estadual (Etec) de Guarulhos. 
 
 ---
-- 🖥️ Atualmente no 2° Módulo
-- 📓 Estou aprendendo: JavaScript
+- 🖥️ Atualmente no 3° Módulo
+- 📓 Estou aprendendo: PHP
 - 📫 Como me encontrar: gyovanna.lemos17@gmail.com
 
 ---
